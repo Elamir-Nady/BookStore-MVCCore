@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e24f45ba-e664-4e61-9072-6ca5030c300a": {
+      "ProjectGuid": "e24f45ba-e664-4e61-9072-6ca5030c300a",
+      "DisplayName": "BookStore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
